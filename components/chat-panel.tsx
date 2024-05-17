@@ -36,24 +36,24 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'What are the',
-      subheading: 'trending memecoins today?',
-      message: `What are the trending memecoins today?`
+      heading: 'O que é o que é',
+      subheading: 'tem nariz mas não cheira XD',
+      message: `O que é o que é, tem nariz mas não cheira`
     },
     {
-      heading: 'What is the price of',
-      subheading: '$DOGE right now?',
-      message: 'What is the price of $DOGE right now?'
+      heading: 'Qual o preço da liberdade?',
+      subheading: 'é barato?',
+      message: 'Qual é o preço da liberdade?'
     },
     {
-      heading: 'I would like to buy',
-      subheading: '42 $DOGE',
-      message: `I would like to buy 42 $DOGE`
+      heading: 'Quero comprar um carro',
+      subheading: 'mas só tenho 10 mil reais',
+      message: `Quero comprar um carro mas só tenho 10 mil reais`
     },
     {
-      heading: 'What are some',
-      subheading: `recent events about $DOGE?`,
-      message: `What are some recent events about $DOGE?`
+      heading: 'Faça pra mim uma questão',
+      subheading: `sobre matemática avançada`,
+      message: `Faça pra mim uma questão sobre matemática avançada`
     }
   ]
 
