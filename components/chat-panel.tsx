@@ -37,7 +37,7 @@ export function ChatPanel({
   const exampleMessages = [
     {
       heading: 'O que é o que é',
-      subheading: 'tem nariz mas não cheira XD',
+      subheading: 'tem nariz mas não cheira',
       message: `O que é o que é, tem nariz mas não cheira`
     },
     {
